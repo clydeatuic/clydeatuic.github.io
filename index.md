@@ -1,8 +1,12 @@
 ## Portfolio
-<table>
+<table style="width:100%">
   <tr>
     <td>Name</td>
     <td>AkoSi Chester</td>
+  </tr>
+  <tr>
+    <td>My preferred hourly rates are </td>
+    <td>$10/hour</td>
   </tr>
 </table>
 ```
