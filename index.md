@@ -1,9 +1,10 @@
 ## Portfolio
-Name | AkoSi Chester
---- | ---
-My preferred hourly rates | **$10/hour**
-lowest of | **$8**
-
+<table>
+  <tr>
+    <td>Name</td>
+    <td>AkoSi Chester</td>
+  </tr>
+</table>
 ```
 Still interested?  
 We are gonna add you to the list, please answer all the questions, so you can be added to the list 
